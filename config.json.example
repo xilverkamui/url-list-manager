@@ -1,0 +1,31 @@
+{
+  "judul_halaman": "Daftar URL",
+  "kategori": [
+    {
+      "nama": "Kategori 1",
+      "daftar_url": [
+        {
+          "judul": "Judul 1",
+          "urls": ["url1", "url2"]
+        },
+        {
+          "judul": "Judul 2",
+          "urls": ["url3", "url4"]
+        }
+      ]
+    },
+    {
+      "nama": "Kategori 2",
+      "daftar_url": [
+        {
+          "judul": "Judul 3",
+          "urls": ["url5"]
+        },
+        {
+          "judul": "Judul 4",
+          "urls": ["url6", "url7", "url8"]
+        }
+      ]
+    }
+  ]
+}
